@@ -152,7 +152,7 @@ s .header .icon-back {
 /* Start landing */
 .landing {
   background-size: cover;
-  background-image: url(/Photos/landing.png);
+  background-image: url(/images/landing.png);
   height: calc(100vh - 61px);
   display: flex;
   flex-direction: column;
